@@ -1,0 +1,15 @@
+.cuerpo {
+background-image: url(../assets/fondo.png);
+}
+
+body {
+    background-image: url(../assets/fondo.png);
+    background-color: #98df76; 
+    font-family: Arial, sans-serif; 
+    color: #121413; 
+}
+
+body {
+    background-image: url('');
+    background-size: cover;
+}
